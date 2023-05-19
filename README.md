@@ -1,5 +1,5 @@
 # 💫 About Me:
-As a self-motivated Cloud Developer, I have a passion to build cloud solutions that remove barriers to impact and profitability. Utilizing my vast experience in large-scale project management and automotive technology allows me to deliver a unique perspective. <br><br>* Google Professional Cloud Architect Certified<br>* A systems diagnosis specialist that thrives under pressure to bring results from 7+ yrs experience as a BMW Master Technician<br>* 8 years of local/global large scale project management experience
+As a self-motivated Cloud Engineer, I have a passion to build cloud solutions that remove barriers to impact and profitability. Utilizing my vast experience in large-scale project management and automotive technology allows me to deliver a unique perspective. <br><br>* Google Professional Cloud Architect Certified<br>* A systems diagnosis specialist that thrives under pressure to bring results from 7+ yrs experience as a BMW Master Technician<br>* 8 years of local/global large scale project management experience
 
 
 ## 🌐 Socials:
