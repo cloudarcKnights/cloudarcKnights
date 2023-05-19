@@ -11,8 +11,8 @@
 
 # Highlighted Projects:
 
-- [Python-Scripting-Certification-Project](https://github.com/your-username](https://github.com/cloudarcKnights/Python-Scripting-Certification-Project))
-- [Cloud Resume Challenge: GCP](https://github.com/your-username](https://github.com/cloudarcKnights/Cloud-Resume-Challenge-GCP))
+- [Python-Scripting-Certification-Project](https://github.com/cloudarcKnights/Cloud-Resume-Challenge-GCP)
+- [Cloud Resume Challenge: GCP](https://github.com/cloudarcKnights/Cloud-Resume-Challenge-GCP)
 
 
 ## 🌐 Socials:
