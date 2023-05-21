@@ -1,6 +1,11 @@
 # 💫 About Me:
 ### A self-motivated Cloud Engineer ready to leverage experience in building and developing cloud solutions.
 
+# Highlighted Projects:
+
+- [Python-Scripting-Certification-Project](https://github.com/cloudarcKnights/Python-Scripting-Certification-Project)
+- [Cloud Resume Challenge: GCP](https://github.com/cloudarcKnights/Cloud-Resume-Challenge-GCP)
+
 ### Specializing in Google Cloud Platform: 
 - Design and plan a cloud solution architecture
 - Manage and provision the cloud solution infrastructure
@@ -8,12 +13,6 @@
 - Analyze and optimize technical and business processes
 - Manage implementations of cloud architecture
 - Ensure solution and operations reliability
-
-# Highlighted Projects:
-
-- [Python-Scripting-Certification-Project](https://github.com/cloudarcKnights/Python-Scripting-Certification-Project)
-- [Cloud Resume Challenge: GCP](https://github.com/cloudarcKnights/Cloud-Resume-Challenge-GCP)
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/maher-salhani/) [Project Website](https://www.Maher-Resume.com) 
